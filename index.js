@@ -22,7 +22,18 @@ var truthy = function(testValue){
     'true',
     '1',
     'ok',
-    'correct'
+    //and, just because...
+    'correct',
+    'absolutely',
+    'definitely',
+    'naturally',
+    'hell yeah',
+    'of course',
+    'right',
+    'veritable',
+    'proper',
+    'bona fide',
+    'shit yes'
   ]
 
   if(testValue){

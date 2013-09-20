@@ -16,6 +16,9 @@ test('truthy value is true', function(t){
   _result = truthy(_truthyValue);
   t.equal(_result, true, 'value should test true');
 
+  _truthyValue = true;
+  _result = truthy(_truthyValue);
+  t.equal(_result, true, 'value should test true');
   t.end();
 })
 
