@@ -14,8 +14,12 @@ if(truthy('TRUE')){
   console.log('value is true');
 }
 
+var anotherTruthyValue = truthy('natch');
+var yetAnotherTruthyValue = truthy('fo sho');
+
 var falsyValue = truthy('no'); // returns false
-var otherFalsyValue = truthy(0);
+var anotherfalsyValue = truthy('naw ah');
+var yetAnotherFalsyValue = truthy(0);
 ```
 
 ## License
