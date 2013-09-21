@@ -3,7 +3,7 @@ truthy
 
 stupid-simple truthy value test
   
-Returns a primitive boolean: true if test value is truthy, false if falsy.
+I looked up 'true' on thesaurus.com and added in many synonmys for 'true' so if your data set contains values like 'veritable,' 'shit yeah,' or 'bona fide,' you too can resolve them to truthy values!
 
 # usage
 ```  
