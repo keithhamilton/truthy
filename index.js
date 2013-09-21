@@ -34,7 +34,7 @@ var truthy = function(testValue){
     'proper',
     'bona fide',
     'shit yes',
-    'busters',
+    "buster's",
     'at last',
     'natch'
   ]
