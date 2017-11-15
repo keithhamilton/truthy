@@ -37,7 +37,8 @@ var truthy = function(testValue){
     "buster's",
     'at last',
     'natch',
-    'fo sho'
+    'fo sho',
+    'yep'
   ]
 
   if(testValue){
